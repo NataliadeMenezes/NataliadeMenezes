@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="40%" src="https://github.com/NataliadeMenezes/NataliadeMenezes/blob/master/img/avatar.png?raw=true"  hspace="20" vspace="5" alt="Meu avatar com um computador na mão">
+<img align="right" width="40%" src="img/octocat-1.png"  hspace="20" vspace="5" alt="Meu avatar com um computador na mão">
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui!</p>
 <p> :woman::computer: Cursando Graduação em Ciência da Computação</p>
 <p> 🚀📚 Estudando para ser uma Desenvolvedora Front-end</p>
@@ -18,10 +18,13 @@
   <img align="center" alt="Natalia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
+  ###
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact" alt="NataliadeMenezes" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&locale=en" alt="NataliadeMenezes" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NataliadeMenezes&" alt="NataliadeMenezes" /></p>
 
