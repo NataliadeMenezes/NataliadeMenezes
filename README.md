@@ -1,7 +1,7 @@
 # Olá, Seja bem vindo(a)!! 
-
+***
 ## Me chamo Natalia
-
+***
 
 
 <img align="right" width="40%" src="img/octocat-1.png"  hspace="20" vspace="5" alt="Meu avatar com um computador na mão">
