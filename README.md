@@ -3,7 +3,7 @@
 ## Me chamo Natalia
 ***
 
-
+![octocat](octocat-1.png)
 <img align="right" width="40%" src="img/octocat-1.png"  hspace="20" vspace="5" alt="Meu avatar com um computador na mão">
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui!</p>
 <p> :woman::computer: Cursando Graduação em Ciência da Computação</p>
