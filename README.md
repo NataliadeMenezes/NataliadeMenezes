@@ -29,7 +29,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NataliadeMenezes&theme=dark&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliadeMenezes&repo=NataliadeMenezes.github.io)](https://github.com/NataliadeMenezes/NataliadeMenezes.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliadeMenezes&repo=NataliadeMenezes.github.io&theme=dark&hide_border=true)](https://github.com/NataliadeMenezes/NataliadeMenezes.github.io)
 
 
 
