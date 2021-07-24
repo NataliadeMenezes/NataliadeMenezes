@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&locale=en" alt="NataliadeMenezes" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NataliadeMenezes&" alt="NataliadeMenezes" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NataliadeMenezes&theme=dark&hide_border=true)
 
 
  ### Contato
