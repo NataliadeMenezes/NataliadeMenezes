@@ -17,16 +17,20 @@
   <img align="center" alt="Natalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natalia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
   
   ###
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&theme=dark&hide_border=true)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NataliadeMenezes&theme=dark&hide_border=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliadeMenezes&repo=NataliadeMenezes.github.io)](https://github.com/NataliadeMenezes/NataliadeMenezes.github.io)
+
 
 
  ### Contato
