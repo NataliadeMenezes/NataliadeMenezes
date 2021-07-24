@@ -20,13 +20,13 @@
   
   ###
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact" alt="NataliadeMenezes" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&locale=en" alt="NataliadeMenezes" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&theme=dark&hide_border=true)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NataliadeMenezes&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NataliadeMenezes&theme=dark&hide_border=true)
 
 
  ### Contato
