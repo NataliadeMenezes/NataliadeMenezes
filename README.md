@@ -1,40 +1,36 @@
-# Olá, Seja bem vindo(a)!!
-***
-## Me chamo Natalia
-***
+## Olá, Seja bem vindo(a)!!
+## Me chamo **Natalia**
 
+✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui!
 
-<img align="right" width="40%" src="img/octocat-1.png"  hspace="20" vspace="5" alt="Meu avatar com um computador na mão">
-<p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui!</p>
-<p> :woman::computer: Cursando Graduação em Ciência da Computação</p>
-<p> 🚀📚 Estudando para ser uma Desenvolvedora Front-end</p>
+:computer: :woman_student: Cursando Graduação em Ciência da Computação
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Natalia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natalia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Natalia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Natalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Natalia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+🚀📚 Estudando para ser uma Desenvolvedora Front-end
+ 
+ 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=NataliadeMenezes&repo=NataliadeMenezes.github.io&theme=dark&hide_border=true)](https://github.com/NataliadeMenezes/NataliadeMenezes.github.io"/>
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&theme=dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
+ <img align="right" width="25%" src="img/octocat-1.png" hspace="1%" alt="Meu avatar com um computador na mão">
+<div style="display: inline_block" style="margin: 10px"><br>
+  <img align="center" alt="Natalia-Js" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  ###
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
+  <img align="center" alt="Natalia-React" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Natalia-HTML" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Natalia-CSS" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Natalia-Python" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+##
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&theme=dark&hide_border=true)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NataliadeMenezes&theme=dark&hide_border=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliadeMenezes&repo=NataliadeMenezes.github.io&theme=dark&hide_border=true)](https://github.com/NataliadeMenezes/NataliadeMenezes.github.io)
-
-
-
- ### Contato
-<div> 
-  <a href = "mailto:nataliademenezes98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="margin: 10px"><br>
+  <a href="mailto:nataliademenezes98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nataliademenezes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
