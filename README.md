@@ -8,7 +8,7 @@
 🚀📚 Estudando para ser uma Desenvolvedora Front-end
  
  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NataliadeMenezes&repo=NataliadeMenezes.github.io&theme=dark&hide_border=true)](https://github.com/NataliadeMenezes/NataliadeMenezes.github.io"/>
+  <a href="https://github.com/NataliadeMenezes/NataliadeMenezes.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NataliadeMenezes&repo=NataliadeMenezes.github.io&theme=dark&hide_border=true)"/></a>
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&theme=dark&hide_border=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"/>
