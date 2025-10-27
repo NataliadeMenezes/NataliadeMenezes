@@ -35,5 +35,4 @@
   <a href="http://api.whatsapp.com/send?1=pt_BR&amp;phone=5551985981920." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  <a href="https://nataliademenezes.github.io/" target-"_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%23af32e9?style=for-the-badge&"></a>
    
-   ![Snake animation](https://github.com/NataliadeMenezes/NataliadeMenezes/blob/output/github-contribution-grid-snake.svg)
 </div>
