@@ -13,18 +13,14 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NataliadeMenezes&show_icons=true&theme=dark&hide_border=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliadeMenezes&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"/>
 </div>
-
- <img align="right" width="25%" src="img/octocat-1.png" hspace="1%" alt="Meu avatar com um computador na mão">
 <div style="display: inline_block" style="margin: 10px"><br>
-  <img align="center" alt="Natalia-Js" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Natalia-Js" width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   
-  <img align="center" alt="Natalia-React" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Natalia-React" width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
   
-  <img align="center" alt="Natalia-HTML" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Natalia-HTML" width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   
-  <img align="center" alt="Natalia-CSS" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Natalia-Python" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Natalia-CSS" width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
 </div>
   
 ##
